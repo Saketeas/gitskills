@@ -1,1 +1,1 @@
-creat test.txt
+creat test.txt  2
